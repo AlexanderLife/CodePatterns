@@ -44,7 +44,7 @@ a[GetCat]=GetDog
 
 print(a[GetCat]() )
 
-output: 2 # because it ran dog.
+#output: 2 # because it ran dog.
 
 
 # We can use this to fake a switch case statement:
